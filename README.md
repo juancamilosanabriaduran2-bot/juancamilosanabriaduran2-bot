@@ -59,7 +59,7 @@ Me muevo entre el **Backend y el Frontend**, explorando herramientas y lenguajes
 - Desarrollar aplicaciones y servicios web.
 - Explorar tanto el desarrollo Backend como el Frontend.
 - Aprender, experimentar y mejorar mis habilidades de programación.
-- Escribir y encontrar conexiones entre tecnología, literatura y creatividad.
+- Escribir, leer y programar.
 
 ## ✉ Contacto
 
