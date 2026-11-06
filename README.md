@@ -37,7 +37,7 @@ Me muevo entre el **Backend y el Frontend**, explorando herramientas y lenguajes
 
   **Backend, bases de datos y herramientas**
 
-  <img src="https://skillicons.dev/icons?i=nodejs,git,postgres,mysql,oracle" alt="Node.js, Git, PostgreSQL, MySQL y Oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,postgres,mysql,oracle" alt="Node.js, Express.js, Git, PostgreSQL, MySQL y Oracle" />
 
 </div>
 
@@ -48,7 +48,7 @@ Me muevo entre el **Backend y el Frontend**, explorando herramientas y lenguajes
   |---|---|
   | Lenguajes | JavaScript, Python, Ruby, Java |
   | Frontend | HTML, CSS |
-  | Backend | Node.js |
+  | Backend | Node.js, Express.js |
   | Bases de datos | PostgreSQL, MySQL, Oracle |
   | Control de versiones | Git |
 
