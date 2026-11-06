@@ -37,7 +37,9 @@ Me muevo entre el **Backend y el Frontend**, explorando herramientas y lenguajes
 
   **Backend, bases de datos y herramientas**
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,postgres,mysql,oracle" alt="Node.js, Express.js, Git, PostgreSQL, MySQL y Oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,postgres,mysql" alt="Node.js, Express.js, Git, PostgreSQL y MySQL" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" alt="Oracle" title="Oracle" />
 
 </div>
 
