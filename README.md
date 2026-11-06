@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:7F5AF0,50:2CB67D,100:FF8906&height=190&section=header&text=Juan%20Camilo%20Sanabria%20Dur%C3%A1n&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Writer&descAlignY=60&descSize=17" width="100%" alt="Banner de presentación" />
+  <img src="https://raw.githubusercontent.com/juancamilosanabriaduran2-bot/juancamilosanabriaduran2-bot/main/assets/starfall-banner.svg" width="100%" alt="Banner animado de estrellas cayendo" />
 
   <br/>
 
