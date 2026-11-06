@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/juancamilosanabriaduran2-bot/juancamilosanabriaduran2-bot/main/assets/starfall-banner.svg" width="100%" alt="Banner animado de estrellas cayendo" />
+  <img src="https://raw.githubusercontent.com/juancamilosanabriaduran2-bot/juancamilosanabriaduran2-bot/main/assets/blue-starfall-banner.svg" width="100%" alt="Banner animado de estrellas cayendo" />
 
   <br/>
 
